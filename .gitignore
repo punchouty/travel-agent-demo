@@ -1,3 +1,10 @@
+/.env
+/.idea/.gitignore
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/inspectionProfiles/profiles_settings.xml
+/.idea/vcs.xml
+/.idea/voice_ai_agent.iml
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
